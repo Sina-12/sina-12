@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi (Dorood) 👋 
 
-<!--
-**Sina-12/sina-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sina Oloomi, welcome to my page. 
 
-Here are some ideas to get you started:
+MDS-Computational Linguistics @ UBC | Digital Strategy & PR Lead @ TD/BOF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a technical expert in transition, with 5+ years of high-stakes strategic communication and advanced NLP and Data Science. I specialize in building safe, production-ready language models and information extraction pipelines.
+
+
+
+Technical Stack
+- Languages: Python (NLTK, Pandas, PyMongo), R (Logistic Regression), SQL. - NLP: Sentiment Analysis, Information Extraction, Text Tokenization, Regex. - Data: NoSQL (MongoDB), Data Cleaning, Automated Reporting.
+
+
+
+Current Focus
+Building scalable RAG (Retrieval-Augmented Generation) systems.
+Professionalizing NLP lab projects for production environments.
+
+
+- 📫 How to reach me: sina.oloomi@mail.mcgill.ca
+
